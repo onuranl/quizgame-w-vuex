@@ -1,5 +1,7 @@
 # quizgame
 
+https://heuristic-hypatia-77313e.netlify.app/
+
 ## Project setup
 ```
 npm install
